@@ -1,4 +1,4 @@
-# Daily-Sells-Counter-
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
